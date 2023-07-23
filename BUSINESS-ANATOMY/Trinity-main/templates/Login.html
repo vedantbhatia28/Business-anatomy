@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!-- Coding by CodingLab | www.codinglabweb.com-->
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--<title> Registration or Sign Up form in HTML CSS | CodingLab </title>-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/login.css') }}">
+    <link rel="shortcut icon" type="image/png" href="static/img/favicon.png">
+    <title>Business Anatomy</title>
+   </head>
+<body>
+
+<div class="wrapper">
+  <!-- <h2>{{ msg }}</h2> -->
+    <h2>Log In</h2>
+    <form action="/dashboard" method="post">
+        <!-- <div class="input-box"> -->
+        <!-- <input type="text" placeholder="Enter your name" required>
+      </div> -->
+      <div class="input-box">
+        <input type="text" class="field" placeholder ="username"  id="user_id"  name="user_id" required>
+      </div>
+      <div class="input-box">
+        <input type="password" class="field" placeholder ="password" id="password" name="password" required>
+      </div>
+      <!-- <div class="input-box">
+        <input type="password" placeholder="Confirm password" required>
+      </div> -->
+
+      <div class="input-box button">
+        <input type="Submit" value="Login">
+      </div>
+    </form>
+</div>
+</body>
+</html>

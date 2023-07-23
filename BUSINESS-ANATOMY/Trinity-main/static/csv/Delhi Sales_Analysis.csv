@@ -1,0 +1,333 @@
+S.NO.,Invoice ID,City,Customer type,Gender,Product line,Quantity,Total,DATE,TIME,Payment,Rating,Month
+3,891-01-7034,DELHI,Normal,Female,Electronic accessories,6,470.673,01-01-2019,19:07,Cash,6.7,January
+11,770-42-8960,DELHI,Normal,Male,Food and beverages,8,177.408,01-01-2019,19:31,Cash,6.3,January
+12,746-04-1077,DELHI,Member,Female,Food and beverages,10,888.615,01-01-2019,11:36,Credit card,9,January
+14,453-63-6187,DELHI,Normal,Male,Electronic accessories,3,86.625,03-01-2019,15:40,Ewallet,6.5,January
+17,339-96-8318,DELHI,Member,Male,Fashion accessories,7,597.6285,03-01-2019,19:49,Ewallet,6.3,January
+18,207-73-1363,DELHI,Normal,Male,Health and beauty,2,145.971,03-01-2019,12:15,Ewallet,8.1,January
+19,470-31-3286,DELHI,Normal,Male,Health and beauty,3,46.683,03-01-2019,11:30,Credit card,8.7,January
+22,238-45-6950,DELHI,Member,Male,Food and beverages,1,56.406,03-01-2019,20:03,Ewallet,6.4,January
+28,875-31-8302,DELHI,Normal,Male,Sports and travel,1,98.049,03-01-2019,13:07,Cash,9.6,January
+29,501-61-1753,DELHI,Normal,Female,Home and lifestyle,6,397.845,03-01-2019,20:24,Ewallet,9.8,January
+30,552-44-5977,DELHI,Member,Male,Health and beauty,8,520.8,03-01-2019,19:08,Credit card,6.2,January
+31,279-74-2924,DELHI,Member,Male,Electronic accessories,1,75.7785,04-01-2019,19:40,Cash,6.1,January
+33,656-16-1063,DELHI,Normal,Male,Sports and travel,3,146.223,04-01-2019,13:24,Credit card,4.4,January
+35,725-32-9708,DELHI,Member,Female,Fashion accessories,4,288.582,04-01-2019,19:01,Cash,4.1,January
+41,843-01-4703,DELHI,Member,Female,Home and lifestyle,9,334.341,05-01-2019,19:50,Credit card,9.6,January
+44,339-12-4827,DELHI,Member,Female,Fashion accessories,1,77.658,05-01-2019,11:32,Credit card,5,January
+45,841-18-8232,DELHI,Normal,Female,Food and beverages,1,74.76,05-01-2019,20:40,Credit card,9.2,January
+54,826-58-8051,DELHI,Normal,Male,Home and lifestyle,4,261.198,06-01-2019,19:46,Ewallet,4.3,January
+55,729-06-2010,DELHI,Member,Male,Health and beauty,9,760.4415,06-01-2019,11:18,Cash,9.2,January
+59,109-28-2512,DELHI,Member,Female,Fashion accessories,6,614.943,07-01-2019,15:01,Ewallet,9.9,January
+62,566-19-5475,DELHI,Normal,Male,Fashion accessories,7,352.5795,07-01-2019,20:52,Cash,6.2,January
+64,889-04-9723,DELHI,Member,Female,Food and beverages,4,374.388,07-01-2019,12:20,Credit card,7.8,January
+69,571-94-0759,DELHI,Member,Female,Food and beverages,10,783.3,08-01-2019,20:55,Cash,9.5,January
+73,387-49-4215,DELHI,Member,Female,Sports and travel,3,152.775,08-01-2019,12:50,Cash,6.7,January
+75,241-96-5076,DELHI,Member,Female,Home and lifestyle,2,103.11,08-01-2019,12:58,Credit card,6.4,January
+76,767-97-4650,DELHI,Member,Female,Sports and travel,2,136.143,08-01-2019,11:59,Credit card,8,January
+78,457-13-1708,DELHI,Member,Male,Fashion accessories,10,684.915,08-01-2019,19:07,Credit card,5.2,January
+84,490-95-0021,DELHI,Member,Female,Food and beverages,10,348.705,08-01-2019,14:25,Ewallet,6,January
+88,343-75-9322,DELHI,Member,Female,Sports and travel,8,99.54,09-01-2019,16:34,Cash,4.1,January
+90,305-89-2768,DELHI,Member,Female,Home and lifestyle,3,68.985,09-01-2019,18:43,Ewallet,4.7,January
+94,640-49-2076,DELHI,Normal,Male,Sports and travel,8,703.752,10-01-2019,14:49,Cash,5.1,January
+98,241-11-2261,DELHI,Normal,Female,Fashion accessories,7,586.971,10-01-2019,10:33,Credit card,5.5,January
+100,226-34-0034,DELHI,Normal,Female,Electronic accessories,4,57.876,10-01-2019,11:10,Ewallet,9,January
+113,848-07-1692,DELHI,Normal,Female,Health and beauty,2,120.162,12-01-2019,17:13,Ewallet,8.3,January
+114,296-11-7041,DELHI,Member,Female,Health and beauty,1,28.4235,12-01-2019,20:07,Credit card,5.3,January
+116,852-62-7105,DELHI,Normal,Female,Fashion accessories,10,874.125,12-01-2019,11:25,Credit card,4.4,January
+118,197-77-7132,DELHI,Member,Male,Electronic accessories,8,769.104,12-01-2019,18:22,Ewallet,6,January
+119,751-15-6198,DELHI,Normal,Male,Sports and travel,6,144.963,12-01-2019,16:45,Ewallet,7.9,January
+120,533-66-5566,DELHI,Normal,Female,Home and lifestyle,7,375.3645,12-01-2019,11:42,Cash,7,January
+124,339-38-9982,DELHI,Member,Male,Fashion accessories,2,125.706,13-01-2019,14:55,Ewallet,6.7,January
+125,355-34-6244,DELHI,Normal,Male,Food and beverages,2,152.019,13-01-2019,19:55,Credit card,8.1,January
+126,327-40-9673,DELHI,Member,Male,Sports and travel,6,457.38,13-01-2019,19:51,Cash,6.9,January
+132,785-13-7708,DELHI,Normal,Male,Food and beverages,7,536.991,14-01-2019,19:06,Credit card,4.2,January
+134,868-52-7573,DELHI,Normal,Female,Food and beverages,5,523.3725,14-01-2019,12:09,Cash,9.9,January
+136,359-90-3665,DELHI,Member,Female,Fashion accessories,4,75.936,14-01-2019,18:03,Credit card,9.5,January
+138,320-85-2052,DELHI,Normal,Female,Sports and travel,1,36.5505,14-01-2019,10:11,Credit card,7,January
+141,559-61-5987,DELHI,Normal,Female,Health and beauty,1,18.6375,14-01-2019,10:38,Cash,8.6,January
+144,299-46-1805,DELHI,Member,Female,Sports and travel,6,590.436,15-01-2019,16:19,Cash,4.5,January
+146,437-58-8131,DELHI,Normal,Female,Fashion accessories,2,154.392,15-01-2019,13:41,Ewallet,4.6,January
+151,188-55-0967,DELHI,Member,Male,Health and beauty,10,697.935,15-01-2019,15:01,Credit card,5,January
+152,369-82-2676,DELHI,Normal,Male,Electronic accessories,5,397.215,15-01-2019,18:22,Ewallet,7.8,January
+155,744-16-7898,DELHI,Normal,Female,Home and lifestyle,10,1022.385,15-01-2019,13:48,Credit card,4.9,January
+157,659-65-8956,DELHI,Member,Male,Fashion accessories,1,53.928,16-01-2019,15:26,Ewallet,5.2,January
+160,347-72-6115,DELHI,Member,Female,Sports and travel,7,666.939,16-01-2019,18:03,Credit card,6.2,January
+161,286-62-6248,DELHI,Normal,Male,Fashion accessories,4,164.682,16-01-2019,20:03,Credit card,9,January
+167,280-35-5823,DELHI,Member,Female,Home and lifestyle,1,91.056,17-01-2019,18:45,Ewallet,7.9,January
+171,349-97-8902,DELHI,Member,Male,Food and beverages,2,121.569,17-01-2019,10:37,Ewallet,8.9,January
+172,670-79-6321,DELHI,Member,Female,Home and lifestyle,7,695.2365,17-01-2019,15:27,Credit card,4.9,January
+173,679-22-6530,DELHI,Normal,Female,Sports and travel,2,85.302,17-01-2019,10:01,Credit card,4.1,January
+179,414-12-7047,DELHI,Normal,Male,Food and beverages,8,166.236,18-01-2019,12:04,Ewallet,8.7,January
+183,821-14-9046,DELHI,Member,Female,Fashion accessories,6,110.124,18-01-2019,15:04,Credit card,6.1,January
+190,608-27-6295,DELHI,Member,Male,Electronic accessories,6,333.207,19-01-2019,17:34,Credit card,9.8,January
+193,375-72-3056,DELHI,Normal,Male,Sports and travel,3,198.639,19-01-2019,15:58,Ewallet,7,January
+199,761-49-0439,DELHI,Member,Female,Electronic accessories,8,101.64,19-01-2019,10:17,Ewallet,8.6,January
+204,378-24-2715,DELHI,Normal,Male,Home and lifestyle,2,112.224,20-01-2019,20:38,Ewallet,4.1,January
+208,356-44-8813,DELHI,Normal,Male,Home and lifestyle,3,118.062,20-01-2019,13:45,Credit card,7.7,January
+219,401-18-8016,DELHI,Member,Female,Sports and travel,1,103.0365,21-01-2019,17:36,Cash,8.9,January
+226,563-47-4072,DELHI,Normal,Female,Health and beauty,6,351.603,22-01-2019,11:52,Cash,9.9,January
+227,120-54-2248,DELHI,Normal,Female,Food and beverages,5,151.515,22-01-2019,18:08,Credit card,8,January
+246,139-20-0155,DELHI,Member,Male,Electronic accessories,10,423.15,24-01-2019,17:37,Credit card,7,January
+249,789-23-8625,DELHI,Member,Male,Fashion accessories,3,293.643,24-01-2019,11:45,Cash,7.2,January
+250,510-79-0415,DELHI,Member,Female,Sports and travel,6,145.404,24-01-2019,19:20,Ewallet,4.9,January
+251,438-23-1242,DELHI,Normal,Male,Electronic accessories,7,557.718,24-01-2019,10:38,Ewallet,8.9,January
+252,775-72-1988,DELHI,Normal,Male,Home and lifestyle,5,384.72,24-01-2019,15:05,Ewallet,8.4,January
+257,602-16-6955,DELHI,Normal,Female,Sports and travel,10,804.3,24-01-2019,18:10,Ewallet,6,January
+258,145-94-9061,DELHI,Normal,Female,Food and beverages,5,463.89,25-01-2019,19:48,Cash,9.6,January
+260,191-10-6171,DELHI,Normal,Female,Fashion accessories,7,291.207,25-01-2019,13:18,Cash,7.5,January
+264,283-79-9594,DELHI,Normal,Female,Food and beverages,7,356.5485,25-01-2019,13:30,Credit card,5.2,January
+266,730-61-8757,DELHI,Member,Male,Health and beauty,4,214.746,25-01-2019,10:11,Credit card,4,January
+267,261-12-8671,DELHI,Normal,Female,Fashion accessories,2,128.016,25-01-2019,19:39,Credit card,4.9,January
+268,569-71-4390,DELHI,Normal,Male,Sports and travel,2,45.927,25-01-2019,14:29,Ewallet,6.9,January
+269,268-03-6164,DELHI,Normal,Male,Health and beauty,1,100.9155,25-01-2019,16:28,Ewallet,7.8,January
+275,847-38-7188,DELHI,Normal,Female,Food and beverages,3,304.542,26-01-2019,19:56,Ewallet,6.4,January
+277,316-55-4634,DELHI,Member,Male,Food and beverages,5,420.2625,26-01-2019,12:45,Credit card,9.4,January
+278,641-43-2399,DELHI,Normal,Male,Home and lifestyle,4,107.31,26-01-2019,20:23,Ewallet,5.7,January
+279,836-82-5858,DELHI,Member,Male,Health and beauty,9,655.5465,26-01-2019,19:14,Ewallet,4,January
+280,289-65-5721,DELHI,Normal,Female,Fashion accessories,2,170.877,26-01-2019,19:28,Cash,6.5,January
+282,173-82-9529,DELHI,Normal,Female,Fashion accessories,10,398.475,26-01-2019,14:51,Cash,9.7,January
+283,539-21-7227,DELHI,Normal,Female,Sports and travel,5,270.585,26-01-2019,17:45,Cash,4.2,January
+286,135-13-8269,DELHI,Member,Female,Food and beverages,2,165.648,26-01-2019,16:04,Cash,9.1,January
+290,794-42-3736,DELHI,Normal,Male,Food and beverages,2,69.993,26-01-2019,14:41,Credit card,6.4,January
+291,452-04-8808,DELHI,Normal,Male,Electronic accessories,7,640.038,26-01-2019,15:17,Cash,5.5,January
+303,869-11-3082,DELHI,Member,Male,Health and beauty,4,403.872,27-01-2019,20:03,Credit card,8.4,January
+305,624-01-8356,DELHI,Normal,Female,Home and lifestyle,10,514.605,27-01-2019,10:44,Credit card,4.2,January
+306,149-71-6266,DELHI,Member,Male,Sports and travel,9,737.7615,28-01-2019,12:43,Cash,4.5,January
+312,390-80-5128,DELHI,Member,Female,Health and beauty,1,20.1075,28-01-2019,17:58,Credit card,9.5,January
+315,222-42-0244,DELHI,Member,Female,Health and beauty,9,681.4395,28-01-2019,13:53,Credit card,7.7,January
+316,544-55-9589,DELHI,Member,Female,Electronic accessories,10,225.015,28-01-2019,11:51,Cash,6.2,January
+317,699-88-1972,DELHI,Normal,Male,Health and beauty,8,832.944,28-01-2019,17:47,Credit card,4.2,January
+319,430-53-4718,DELHI,Member,Male,Health and beauty,8,633.108,28-01-2019,15:46,Credit card,8.4,January
+322,110-48-7033,DELHI,Member,Male,Fashion accessories,4,137.004,29-01-2019,14:12,Cash,9,January
+325,862-17-9201,DELHI,Normal,Female,Food and beverages,6,529.515,29-01-2019,10:48,Credit card,7.7,January
+326,343-61-3544,DELHI,Member,Male,Sports and travel,10,280.035,29-01-2019,11:48,Cash,8.6,January
+334,182-69-8360,DELHI,Normal,Female,Electronic accessories,4,99.33,30-01-2019,13:32,Credit card,4,January
+337,134-54-4720,DELHI,Normal,Female,Electronic accessories,8,356.328,30-01-2019,13:58,Ewallet,5.7,January
+341,239-36-3640,DELHI,Normal,Male,Electronic accessories,6,285.705,31-01-2019,13:44,Ewallet,6.1,January
+345,532-59-7201,DELHI,Member,Male,Sports and travel,6,503.559,31-01-2019,14:04,Cash,5.5,January
+346,525-88-7307,DELHI,Member,Male,Sports and travel,1,79.611,31-01-2019,13:19,Cash,5.8,January
+347,286-75-7818,DELHI,Normal,Male,Fashion accessories,2,145.068,31-01-2019,19:48,Credit card,6.9,January
+349,834-45-5519,DELHI,Normal,Female,Electronic accessories,4,180.6,31-01-2019,20:48,Ewallet,7.6,January
+351,525-09-8450,DELHI,Normal,Male,Electronic accessories,10,757.365,31-01-2019,15:12,Credit card,4.2,January
+352,457-94-0464,DELHI,Member,Male,Electronic accessories,9,830.3715,31-01-2019,20:32,Ewallet,5.6,January
+363,244-08-0162,DELHI,Normal,Female,Health and beauty,10,359.205,01-02-2019,13:00,Cash,5.1,February
+364,198-84-7132,DELHI,Member,Male,Fashion accessories,9,383.7645,01-02-2019,13:40,Cash,7,February
+365,744-09-5786,DELHI,Normal,Male,Electronic accessories,6,138.663,01-02-2019,18:50,Cash,7.6,February
+368,670-71-7306,DELHI,Normal,Male,Sports and travel,6,281.169,01-02-2019,20:08,Credit card,5.1,February
+372,376-02-8238,DELHI,Normal,Male,Home and lifestyle,8,788.508,02-02-2019,18:42,Credit card,8.3,February
+373,845-51-0542,DELHI,Member,Male,Food and beverages,9,439.8975,02-02-2019,15:34,Ewallet,6.4,February
+375,201-86-2184,DELHI,Member,Female,Electronic accessories,7,193.011,02-02-2019,19:40,Cash,9.9,February
+379,418-05-0656,DELHI,Normal,Female,Fashion accessories,7,187.866,02-02-2019,20:42,Cash,7.1,February
+385,817-69-8206,DELHI,Normal,Female,Electronic accessories,9,942.4485,03-02-2019,19:42,Credit card,6.5,February
+386,346-84-3103,DELHI,Member,Female,Electronic accessories,5,69.405,03-02-2019,19:26,Cash,4.3,February
+388,565-67-6697,DELHI,Member,Male,Home and lifestyle,9,255.15,03-02-2019,14:16,Cash,4.8,February
+391,576-31-4774,DELHI,Normal,Female,Health and beauty,3,231.2415,03-02-2019,13:10,Ewallet,4,February
+392,640-48-5028,DELHI,Member,Female,Home and lifestyle,9,835.2855,03-02-2019,12:40,Cash,6.3,February
+396,636-98-3364,DELHI,Member,Female,Electronic accessories,3,82.719,03-02-2019,12:36,Ewallet,6.3,February
+397,825-94-5922,DELHI,Normal,Male,Sports and travel,2,53.151,03-02-2019,19:26,Ewallet,7.2,February
+399,172-42-8274,DELHI,Normal,Female,Electronic accessories,2,80.367,03-02-2019,18:18,Credit card,5.8,February
+400,303-96-2227,DELHI,Normal,Female,Home and lifestyle,10,1022.49,03-02-2019,17:16,Ewallet,4.4,February
+402,347-34-2234,DELHI,Member,Female,Sports and travel,9,520.4115,03-02-2019,13:40,Ewallet,10,February
+407,277-63-2961,DELHI,Member,Male,Sports and travel,1,77.6685,03-02-2019,15:53,Credit card,5.4,February
+411,322-02-2271,DELHI,Normal,Female,Sports and travel,3,135.3555,03-02-2019,11:46,Cash,9.3,February
+413,190-59-3964,DELHI,Member,Male,Food and beverages,5,247.59,03-02-2019,14:35,Credit card,6,February
+414,676-10-2200,DELHI,Member,Male,Fashion accessories,1,56.469,03-02-2019,20:13,Ewallet,4.7,February
+418,627-95-3243,DELHI,Member,Female,Home and lifestyle,9,734.076,04-02-2019,13:21,Ewallet,9.8,February
+419,198-66-9832,DELHI,Member,Female,Fashion accessories,2,151.284,04-02-2019,19:38,Cash,9.5,February
+423,434-35-9162,DELHI,Member,Male,Food and beverages,4,98.028,04-02-2019,18:53,Ewallet,7.4,February
+425,151-33-7434,DELHI,Normal,Female,Food and beverages,1,71.1585,04-02-2019,20:43,Credit card,6.5,February
+426,479-26-8945,DELHI,Member,Female,Sports and travel,2,34.629,05-02-2019,11:32,Ewallet,4.6,February
+431,374-17-3652,DELHI,Member,Female,Food and beverages,9,404.649,05-02-2019,15:26,Credit card,8.9,February
+432,210-57-1719,DELHI,Normal,Female,Health and beauty,9,550.368,05-02-2019,12:34,Cash,9.7,February
+438,351-62-0822,DELHI,Member,Female,Fashion accessories,4,60.816,06-02-2019,18:07,Ewallet,4.5,February
+440,727-46-3608,DELHI,Member,Female,Food and beverages,9,189.0945,06-02-2019,15:47,Ewallet,4.1,February
+442,875-46-5808,DELHI,Member,Male,Health and beauty,10,271.95,06-02-2019,14:51,Ewallet,8.7,February
+445,857-67-9057,DELHI,Normal,Male,Electronic accessories,10,240.975,06-02-2019,19:20,Ewallet,8.2,February
+449,811-35-1094,DELHI,Member,Male,Electronic accessories,6,317.835,06-02-2019,15:16,Credit card,8.9,February
+455,868-81-1752,DELHI,Normal,Male,Home and lifestyle,9,208.089,07-02-2019,18:48,Cash,6.8,February
+457,533-33-5337,DELHI,Normal,Male,Electronic accessories,10,833.595,07-02-2019,20:24,Cash,6.2,February
+458,827-44-5872,DELHI,Member,Female,Food and beverages,10,570.78,07-02-2019,11:28,Credit card,6.1,February
+466,114-35-5271,DELHI,Normal,Female,Electronic accessories,8,486.444,07-02-2019,15:06,Cash,8.1,February
+468,430-02-3888,DELHI,Normal,Male,Electronic accessories,6,289.926,07-02-2019,15:55,Cash,7.1,February
+470,374-38-5555,DELHI,Normal,Female,Fashion accessories,5,334.4775,07-02-2019,19:30,Ewallet,8.5,February
+472,649-29-6775,DELHI,Normal,Male,Fashion accessories,1,35.196,08-02-2019,15:31,Cash,6.7,February
+473,354-25-5821,DELHI,Member,Female,Sports and travel,6,435.456,08-02-2019,13:03,Cash,5.6,February
+474,549-84-7482,DELHI,Normal,Female,Sports and travel,9,853.146,08-02-2019,11:15,Ewallet,7.2,February
+476,732-04-5373,DELHI,Member,Male,Home and lifestyle,4,195.174,08-02-2019,10:53,Cash,7,February
+479,830-58-2383,DELHI,Normal,Male,Home and lifestyle,4,133.35,08-02-2019,15:26,Cash,8.6,February
+482,181-82-6255,DELHI,Normal,Female,Home and lifestyle,6,103.131,08-02-2019,10:58,Cash,7,February
+485,866-05-7563,DELHI,Member,Female,Electronic accessories,3,256.41,09-02-2019,19:43,Cash,4.8,February
+490,747-58-7183,DELHI,Normal,Male,Fashion accessories,3,180.4005,09-02-2019,20:31,Ewallet,6.5,February
+492,509-10-0516,DELHI,Normal,Male,Home and lifestyle,4,193.074,09-02-2019,12:02,Ewallet,5.1,February
+494,200-40-6154,DELHI,Member,Male,Home and lifestyle,6,415.233,09-02-2019,11:45,Cash,5.7,February
+496,669-54-1719,DELHI,Member,Male,Electronic accessories,6,119.259,10-02-2019,12:45,Credit card,8.1,February
+499,695-51-0018,DELHI,Normal,Female,Sports and travel,4,146.328,10-02-2019,18:36,Cash,7.4,February
+503,378-07-7001,DELHI,Member,Male,Electronic accessories,3,151.4835,10-02-2019,18:23,Credit card,7.8,February
+506,448-34-8700,DELHI,Member,Male,Home and lifestyle,7,271.2885,10-02-2019,13:51,Ewallet,6.7,February
+508,284-34-9626,DELHI,Normal,Female,Home and lifestyle,3,242.676,11-02-2019,10:39,Credit card,7.2,February
+509,418-02-5978,DELHI,Normal,Female,Health and beauty,9,794.6505,11-02-2019,10:54,Cash,8,February
+511,842-40-8179,DELHI,Member,Female,Food and beverages,10,810.6,11-02-2019,10:38,Credit card,5.6,February
+516,549-03-9315,DELHI,Normal,Male,Fashion accessories,8,796.908,12-02-2019,12:58,Ewallet,8.7,February
+517,305-18-3552,DELHI,Member,Male,Home and lifestyle,10,633.99,12-02-2019,16:19,Cash,6,February
+520,528-87-5606,DELHI,Member,Female,Electronic accessories,1,41.454,12-02-2019,19:43,Cash,6.5,February
+526,767-54-1907,DELHI,Member,Female,Fashion accessories,5,155.19,13-02-2019,16:59,Cash,6.9,February
+527,173-50-1108,DELHI,Member,Female,Sports and travel,4,84.756,13-02-2019,12:14,Credit card,5,February
+529,388-76-2555,DELHI,Normal,Male,Sports and travel,6,86.247,13-02-2019,13:59,Cash,6.3,February
+531,853-23-2453,DELHI,Member,Male,Health and beauty,4,318.108,14-02-2019,14:35,Cash,7.6,February
+536,109-86-4363,DELHI,Member,Female,Sports and travel,7,441.588,14-02-2019,11:36,Credit card,4.5,February
+540,227-78-1148,DELHI,Normal,Female,Fashion accessories,7,535.374,15-02-2019,12:44,Cash,8.4,February
+541,394-43-4238,DELHI,Member,Male,Home and lifestyle,5,93.2925,15-02-2019,12:42,Credit card,5.4,February
+544,873-95-4984,DELHI,Member,Female,Health and beauty,7,565.215,15-02-2019,20:21,Cash,7.7,February
+547,710-46-4433,DELHI,Member,Female,Food and beverages,9,731.43,15-02-2019,14:15,Credit card,4.5,February
+555,234-36-2483,DELHI,Normal,Male,Health and beauty,6,362.817,15-02-2019,13:51,Cash,5.1,February
+556,321-49-7382,DELHI,Member,Male,Sports and travel,1,92.7255,15-02-2019,17:38,Credit card,5.2,February
+557,431-66-2305,DELHI,Normal,Female,Electronic accessories,9,833.9625,15-02-2019,20:51,Credit card,7.6,February
+558,241-72-9525,DELHI,Normal,Male,Sports and travel,10,545.055,16-02-2019,12:21,Cash,8.2,February
+560,598-06-7312,DELHI,Member,Male,Fashion accessories,1,95.9175,16-02-2019,15:42,Cash,6.8,February
+562,133-77-3154,DELHI,Member,Male,Fashion accessories,4,252.756,16-02-2019,18:04,Credit card,9.4,February
+564,895-03-6665,DELHI,Normal,Female,Fashion accessories,9,345.0195,16-02-2019,10:52,Cash,4.2,February
+567,590-83-4591,DELHI,Member,Male,Electronic accessories,6,550.935,17-02-2019,14:40,Credit card,8.8,February
+576,785-96-0615,DELHI,Member,Female,Electronic accessories,8,300.216,17-02-2019,15:28,Ewallet,4.9,February
+583,764-44-8999,DELHI,Normal,Female,Health and beauty,2,30.996,18-02-2019,14:42,Ewallet,4.3,February
+587,752-23-3760,DELHI,Member,Female,Sports and travel,7,470.988,19-02-2019,19:29,Credit card,7.3,February
+595,692-92-5582,DELHI,Member,Female,Food and beverages,3,172.746,20-02-2019,13:27,Credit card,5.9,February
+597,548-46-9322,DELHI,Normal,Male,Food and beverages,10,418.95,20-02-2019,15:24,Credit card,5.9,February
+598,498-41-1961,DELHI,Normal,Male,Health and beauty,5,350.07,20-02-2019,18:01,Cash,7.6,February
+600,458-61-0011,DELHI,Normal,Male,Food and beverages,4,253.26,20-02-2019,18:43,Cash,5.8,February
+601,779-42-2410,DELHI,Member,Male,Food and beverages,3,181.881,20-02-2019,13:06,Ewallet,7.7,February
+604,311-13-6971,DELHI,Member,Male,Sports and travel,10,335.895,20-02-2019,15:18,Credit card,9.9,February
+607,269-04-5750,DELHI,Member,Male,Fashion accessories,4,310.044,21-02-2019,18:31,Cash,6.7,February
+610,503-21-4385,DELHI,Member,Male,Health and beauty,3,125.7165,21-02-2019,12:40,Ewallet,9.3,February
+613,831-64-0259,DELHI,Normal,Female,Fashion accessories,5,208.6875,22-02-2019,10:43,Ewallet,9.6,February
+614,837-55-7229,DELHI,Normal,Female,Fashion accessories,1,49.812,22-02-2019,18:19,Credit card,6.8,February
+615,582-52-8065,DELHI,Normal,Female,Fashion accessories,9,513.2295,22-02-2019,10:49,Cash,8.9,February
+618,777-67-2495,DELHI,Normal,Male,Home and lifestyle,3,217.2555,22-02-2019,11:26,Ewallet,8.7,February
+620,690-01-6631,DELHI,Normal,Male,Fashion accessories,10,183.645,22-02-2019,18:35,Ewallet,6.6,February
+623,396-90-2219,DELHI,Normal,Female,Electronic accessories,8,125.664,23-02-2019,12:29,Cash,8.6,February
+626,695-09-5146,DELHI,Member,Female,Food and beverages,3,311.1885,23-02-2019,20:00,Ewallet,6.4,February
+627,190-14-3147,DELHI,Normal,Female,Health and beauty,4,75.474,23-02-2019,20:43,Ewallet,6.4,February
+629,831-81-6575,DELHI,Member,Female,Electronic accessories,9,714.3255,23-02-2019,11:12,Cash,8,February
+632,692-27-8933,DELHI,Normal,Female,Sports and travel,6,365.085,24-02-2019,13:02,Cash,5.2,February
+634,242-11-3142,DELHI,Member,Male,Fashion accessories,2,175.917,24-02-2019,19:57,Cash,4.6,February
+638,365-16-4334,DELHI,Normal,Female,Food and beverages,8,222.012,24-02-2019,14:26,Ewallet,8.9,February
+641,871-79-8483,DELHI,Normal,Male,Fashion accessories,5,494.1825,25-02-2019,19:39,Credit card,4.8,February
+643,505-02-0892,DELHI,Member,Male,Health and beauty,8,357.588,25-02-2019,14:12,Ewallet,5.6,February
+646,511-54-3087,DELHI,Normal,Male,Sports and travel,1,92.8725,25-02-2019,16:36,Credit card,9.5,February
+649,834-83-1826,DELHI,Member,Female,Home and lifestyle,5,430.71,25-02-2019,17:16,Credit card,7.6,February
+650,636-17-0325,DELHI,Normal,Male,Health and beauty,4,262.794,25-02-2019,18:37,Cash,9.5,February
+651,866-70-2814,DELHI,Normal,Female,Electronic accessories,10,554.295,25-02-2019,11:58,Ewallet,10,February
+652,608-05-3804,DELHI,Member,Male,Electronic accessories,1,41.7375,25-02-2019,20:19,Cash,6.1,February
+654,574-80-1489,DELHI,Member,Female,Food and beverages,4,263.97,25-02-2019,13:22,Ewallet,8.7,February
+655,466-61-5506,DELHI,Member,Female,Electronic accessories,6,571.41,26-02-2019,10:52,Cash,5.3,February
+656,154-74-7179,DELHI,Normal,Male,Sports and travel,1,57.1725,26-02-2019,19:24,Ewallet,7.9,February
+657,477-24-6490,DELHI,Normal,Female,Health and beauty,6,628.173,26-02-2019,16:52,Ewallet,7.9,February
+659,437-53-3084,DELHI,Normal,Male,Fashion accessories,2,209.769,26-02-2019,11:48,Ewallet,7.1,February
+661,707-32-7409,DELHI,Member,Female,Sports and travel,4,401.268,26-02-2019,11:58,Ewallet,4.5,February
+663,518-71-6847,DELHI,Member,Male,Food and beverages,6,167.58,26-02-2019,15:10,Ewallet,4.9,February
+664,370-41-7321,DELHI,Member,Male,Health and beauty,9,535.7205,27-02-2019,17:24,Credit card,8.4,February
+665,318-68-5053,DELHI,Normal,Female,Health and beauty,6,485.037,27-02-2019,17:55,Cash,6.1,February
+667,400-45-1220,DELHI,Normal,Female,Health and beauty,10,141.75,27-02-2019,11:06,Credit card,4.8,February
+669,741-73-3559,DELHI,Normal,Male,Sports and travel,5,353.1675,27-02-2019,17:27,Cash,6.9,February
+670,665-63-9737,DELHI,Normal,Male,Fashion accessories,3,165.123,27-02-2019,17:36,Ewallet,7.5,February
+673,191-29-0321,DELHI,Member,Female,Fashion accessories,10,207.585,27-02-2019,18:57,Credit card,5,February
+680,709-58-4068,DELHI,Normal,Female,Fashion accessories,10,431.445,28-02-2019,14:42,Cash,7.3,February
+683,291-59-1384,DELHI,Normal,Male,Electronic accessories,1,63.315,28-02-2019,17:38,Cash,6,February
+685,777-82-7220,DELHI,Member,Male,Home and lifestyle,8,253.008,03-03-2019,13:01,Cash,7.7,March
+689,305-14-0245,DELHI,Member,Female,Home and lifestyle,8,793.716,03-03-2019,19:00,Ewallet,7.5,March
+692,234-03-4040,DELHI,Member,Female,Food and beverages,10,767.025,03-03-2019,12:25,Credit card,8.7,March
+702,346-12-3257,DELHI,Member,Male,Electronic accessories,9,181.818,04-03-2019,16:28,Cash,8,March
+710,371-85-5789,DELHI,Normal,Male,Health and beauty,3,277.137,05-03-2019,10:40,Ewallet,5.1,March
+711,510-95-6347,DELHI,Member,Female,Food and beverages,3,152.838,05-03-2019,18:17,Ewallet,4,March
+714,733-01-9107,DELHI,Normal,Male,Home and lifestyle,6,521.01,05-03-2019,18:14,Cash,7.4,March
+715,291-32-1427,DELHI,Member,Male,Fashion accessories,5,115.185,05-03-2019,12:29,Ewallet,5.3,March
+716,895-66-0685,DELHI,Member,Male,Food and beverages,3,56.952,05-03-2019,19:46,Ewallet,8,March
+719,433-75-6987,DELHI,Member,Female,Health and beauty,7,411.3795,05-03-2019,19:06,Ewallet,8.9,March
+720,793-10-3222,DELHI,Member,Female,Health and beauty,6,258.678,05-03-2019,13:30,Credit card,8.3,March
+721,608-04-3797,DELHI,Member,Female,Health and beauty,8,212.688,05-03-2019,20:24,Ewallet,8.7,March
+724,174-64-0215,DELHI,Normal,Male,Sports and travel,10,732.27,05-03-2019,17:49,Credit card,8.9,March
+725,593-14-4239,DELHI,Normal,Female,Home and lifestyle,8,801.864,05-03-2019,19:40,Ewallet,4.7,March
+729,262-47-2794,DELHI,Member,Male,Home and lifestyle,8,603.624,06-03-2019,15:07,Credit card,6.2,March
+730,468-01-2051,DELHI,Normal,Male,Food and beverages,7,456.288,06-03-2019,13:46,Ewallet,5.4,March
+731,783-09-1637,DELHI,Normal,Female,Sports and travel,5,354.0075,06-03-2019,18:13,Ewallet,6.3,March
+735,149-15-7606,DELHI,Member,Male,Sports and travel,9,352.674,06-03-2019,15:31,Ewallet,5.1,March
+736,715-20-1673,DELHI,Normal,Male,Electronic accessories,5,148.995,06-03-2019,20:57,Cash,9.4,March
+737,883-69-1285,DELHI,Member,Male,Fashion accessories,2,104.832,06-03-2019,11:55,Credit card,7,March
+738,242-55-6721,DELHI,Normal,Male,Home and lifestyle,2,33.936,07-03-2019,11:49,Ewallet,6.5,March
+739,307-85-2293,DELHI,Normal,Male,Home and lifestyle,5,263.97,07-03-2019,13:58,Ewallet,9.7,March
+757,364-33-8584,DELHI,Member,Female,Food and beverages,5,92.5575,08-03-2019,15:27,Cash,8.5,March
+758,529-56-3974,DELHI,Member,Male,Electronic accessories,4,107.142,09-03-2019,17:03,Cash,6.8,March
+759,132-32-9879,DELHI,Member,Female,Electronic accessories,4,394.632,09-03-2019,18:00,Cash,9.5,March
+762,219-22-9386,DELHI,Member,Male,Sports and travel,9,944.622,09-03-2019,17:26,Credit card,4.2,March
+763,268-27-6179,DELHI,Member,Female,Fashion accessories,8,474.348,09-03-2019,14:57,Ewallet,7.3,March
+768,616-87-0016,DELHI,Normal,Male,Fashion accessories,7,702.219,09-03-2019,14:36,Credit card,9.6,March
+772,299-29-0180,DELHI,Member,Female,Home and lifestyle,7,383.523,09-03-2019,10:54,Cash,9.3,March
+777,790-29-1172,DELHI,Normal,Female,Food and beverages,3,180.621,10-03-2019,18:59,Credit card,7.9,March
+778,596-42-3999,DELHI,Normal,Male,Food and beverages,7,133.917,10-03-2019,14:04,Credit card,6.6,March
+784,156-20-0370,DELHI,Normal,Female,Electronic accessories,1,26.7225,10-03-2019,18:10,Credit card,5.1,March
+787,319-50-3348,DELHI,Normal,Female,Home and lifestyle,2,84.63,11-03-2019,15:30,Ewallet,4.4,March
+789,891-58-8335,DELHI,Member,Female,Sports and travel,7,217.6335,11-03-2019,15:53,Cash,6.5,March
+796,214-30-2776,DELHI,Member,Female,Electronic accessories,5,181.0725,11-03-2019,19:44,Credit card,9,March
+798,152-08-9985,DELHI,Member,Male,Health and beauty,9,608.202,12-03-2019,12:09,Credit card,8.6,March
+800,545-46-3100,DELHI,Member,Female,Electronic accessories,3,33.3585,12-03-2019,13:52,Credit card,8.7,March
+803,573-10-3877,DELHI,Member,Male,Health and beauty,1,40.9605,12-03-2019,16:46,Credit card,4.7,March
+804,276-54-0879,DELHI,Normal,Male,Sports and travel,4,410.508,12-03-2019,19:53,Ewallet,6.4,March
+808,427-45-9297,DELHI,Member,Female,Home and lifestyle,7,299.3655,12-03-2019,11:01,Ewallet,5.4,March
+812,655-85-5130,DELHI,Member,Female,Fashion accessories,4,160.86,13-03-2019,19:22,Cash,5.7,March
+813,585-03-5943,DELHI,Normal,Male,Health and beauty,10,190.155,13-03-2019,11:46,Ewallet,5.9,March
+815,686-41-0932,DELHI,Normal,Female,Fashion accessories,2,72.87,13-03-2019,19:48,Ewallet,8.2,March
+822,115-99-4379,DELHI,Member,Female,Fashion accessories,7,402.2655,14-03-2019,19:02,Credit card,8.5,March
+826,174-75-0888,DELHI,Normal,Male,Electronic accessories,9,203.931,14-03-2019,12:32,Cash,7.3,March
+830,628-90-8624,DELHI,Member,Male,Health and beauty,10,867.09,14-03-2019,14:41,Cash,5,March
+832,210-30-7976,DELHI,Member,Female,Fashion accessories,4,93.744,14-03-2019,11:16,Ewallet,4.1,March
+833,499-27-7781,DELHI,Normal,Female,Food and beverages,8,446.964,14-03-2019,16:45,Ewallet,5,March
+837,273-16-6619,DELHI,Normal,Male,Home and lifestyle,2,69.72,15-03-2019,12:20,Credit card,4.4,March
+840,542-41-0513,DELHI,Member,Female,Electronic accessories,4,241.458,15-03-2019,11:57,Cash,6.6,March
+841,760-54-1821,DELHI,Normal,Male,Home and lifestyle,9,128.4255,15-03-2019,10:26,Cash,5.8,March
+843,585-11-6748,DELHI,Member,Male,Sports and travel,3,304.92,15-03-2019,13:05,Cash,5.3,March
+844,605-83-1050,DELHI,Normal,Male,Fashion accessories,2,57.078,15-03-2019,16:26,Ewallet,4.3,March
+845,359-94-5395,DELHI,Normal,Male,Health and beauty,1,97.419,15-03-2019,10:50,Credit card,9.8,March
+846,565-91-4567,DELHI,Normal,Male,Health and beauty,8,90.3,15-03-2019,14:38,Ewallet,6.2,March
+847,361-59-0574,DELHI,Member,Male,Sports and travel,8,760.452,15-03-2019,14:48,Credit card,6.5,March
+853,578-80-7669,DELHI,Normal,Male,Sports and travel,1,78.7185,16-03-2019,16:58,Cash,5.6,March
+855,701-69-8742,DELHI,Normal,Male,Sports and travel,10,360.885,16-03-2019,10:11,Ewallet,6.7,March
+857,711-31-1234,DELHI,Normal,Female,Electronic accessories,4,401.688,16-03-2019,18:51,Cash,7.9,March
+860,642-30-6693,DELHI,Normal,Female,Sports and travel,6,343.413,17-03-2019,13:54,Ewallet,7.8,March
+862,152-03-4217,DELHI,Normal,Female,Home and lifestyle,9,106.596,17-03-2019,11:55,Credit card,4.3,March
+868,420-04-7590,DELHI,Normal,Male,Home and lifestyle,3,314.055,18-03-2019,11:29,Ewallet,4.7,March
+869,776-68-1096,DELHI,Normal,Male,Home and lifestyle,3,138.978,18-03-2019,13:45,Credit card,7.9,March
+872,716-39-1409,DELHI,Normal,Male,Health and beauty,7,223.0725,19-03-2019,18:19,Cash,8,March
+878,301-81-8610,DELHI,Member,Male,Fashion accessories,8,213.528,19-03-2019,19:42,Credit card,6.7,March
+880,701-23-5550,DELHI,Member,Male,Home and lifestyle,4,163.002,19-03-2019,13:40,Ewallet,4.9,March
+887,142-63-6033,DELHI,Normal,Male,Home and lifestyle,5,484.89,20-03-2019,19:17,Ewallet,4.9,March
+891,650-98-6268,DELHI,Member,Female,Food and beverages,3,65.7405,20-03-2019,13:53,Credit card,8,March
+892,632-32-4574,DELHI,Normal,Male,Sports and travel,8,637.728,20-03-2019,14:14,Cash,5.5,March
+895,514-37-2845,DELHI,Normal,Male,Fashion accessories,2,208.425,20-03-2019,13:02,Cash,9,March
+898,182-88-2763,DELHI,Member,Male,Food and beverages,3,251.7165,20-03-2019,19:28,Credit card,5,March
+899,574-31-8277,DELHI,Member,Male,Fashion accessories,1,35.3115,20-03-2019,19:55,Cash,5.6,March
+905,438-01-4015,DELHI,Member,Female,Sports and travel,4,207.858,21-03-2019,15:25,Ewallet,6.6,March
+909,616-24-2851,DELHI,Member,Female,Fashion accessories,4,75.054,22-03-2019,14:42,Ewallet,6.5,March
+913,394-30-3170,DELHI,Member,Female,Sports and travel,8,742.812,22-03-2019,19:35,Credit card,4.3,March
+914,554-53-3790,DELHI,Normal,Male,Sports and travel,6,233.226,22-03-2019,18:33,Cash,4.5,March
+920,608-96-3517,DELHI,Member,Female,Fashion accessories,4,384.468,23-03-2019,19:20,Credit card,4.8,March
+930,560-30-5617,DELHI,Normal,Female,Sports and travel,5,130.0425,24-03-2019,18:27,Cash,8.5,March
+935,725-67-2480,DELHI,Member,Female,Fashion accessories,6,370.125,24-03-2019,18:14,Credit card,5.9,March
+938,851-98-3555,DELHI,Normal,Female,Health and beauty,5,435.12,24-03-2019,14:08,Credit card,6.6,March
+939,641-62-7288,DELHI,Normal,Male,Home and lifestyle,6,629.496,24-03-2019,13:33,Ewallet,7.1,March
+944,282-35-2475,DELHI,Normal,Female,Sports and travel,2,195.951,25-03-2019,17:53,Cash,6.3,March
+947,366-43-6862,DELHI,Normal,Male,Electronic accessories,4,222.138,25-03-2019,16:32,Ewallet,6.7,March
+952,449-27-2918,DELHI,Member,Female,Sports and travel,1,41.076,26-03-2019,11:02,Credit card,9.6,March
+953,734-91-1155,DELHI,Normal,Female,Electronic accessories,3,143.9865,26-03-2019,10:34,Credit card,7.7,March
+956,487-79-6868,DELHI,Member,Female,Home and lifestyle,9,116.1405,26-03-2019,19:28,Credit card,8,March
+965,423-57-2993,DELHI,Normal,Male,Sports and travel,6,588.357,27-03-2019,19:18,Ewallet,10,March
+967,794-32-2436,DELHI,Member,Male,Electronic accessories,2,116.907,27-03-2019,15:08,Ewallet,6,March
+968,176-64-7711,DELHI,Normal,Male,Food and beverages,3,101.808,27-03-2019,19:11,Credit card,4.3,March
+970,313-66-9943,DELHI,Member,Female,Food and beverages,3,91.8225,27-03-2019,20:29,Credit card,7.3,March
+973,573-58-9734,DELHI,Normal,Female,Fashion accessories,3,95.6655,28-03-2019,13:41,Ewallet,5.1,March
+983,766-85-7061,DELHI,Normal,Male,Health and beauty,10,922.635,29-03-2019,10:25,Ewallet,5.1,March
+985,291-21-5991,DELHI,Member,Male,Health and beauty,5,321.7725,29-03-2019,14:28,Cash,7,March
+986,425-85-2085,DELHI,Member,Male,Health and beauty,5,288.015,29-03-2019,16:48,Ewallet,9.8,March
+988,186-79-9562,DELHI,Normal,Male,Health and beauty,7,527.5095,29-03-2019,14:06,Cash,8.9,March
+990,743-04-1105,DELHI,Member,Male,Health and beauty,9,918.729,30-03-2019,14:43,Ewallet,6,March
+992,731-59-7531,DELHI,Member,Male,Health and beauty,8,609.588,30-03-2019,17:58,Cash,4.6,March
+996,642-61-4706,DELHI,Member,Male,Food and beverages,2,196.14,30-03-2019,16:34,Cash,5.5,March

@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- Boxicons -->
+	<link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+	<!-- My CSS -->
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/dashboard.css') }}">
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+	<link rel="shortcut icon" type="image/png" href="static/img/favicon.png">
+
+	<title>Business Anatomy</title>
+</head>
+<body>
+
+
+	<!-- SIDEBAR -->
+	<section id="sidebar">
+		<a href="#" class="brand">
+			<i class='bx bxs-smile'></i>
+			<span class="text">User_Name</span>
+		</a>
+		<ul class="side-menu top">
+			<li class="active">
+				<a href="./dashboard">
+					<i class='bx bxs-dashboard' ></i>
+					<span class="text">Dashboard</span>
+				</a>
+			</li>
+			<!-- <li>
+				<a href="#">
+					<i class='bx bxs-shopping-bag-alt' ></i>
+					<span class="text">My Store</span>
+				</a>
+			</li>
+			<li>
+				<a href="#">
+					<i class='bx bxs-doughnut-chart' ></i>
+					<span class="text">Analytics</span>
+				</a>
+			</li>
+			<li>
+				<a href="#">
+					<i class='bx bxs-message-dots' ></i>
+					<span class="text">Message</span>
+				</a>
+			</li>
+			<li>
+				<a href="#">
+					<i class='bx bxs-group' ></i>
+					<span class="text">Team</span>
+				</a>
+			</li> -->
+		</ul>
+		<ul class="side-menu">
+			<li>
+				<a href="./settings">
+					<i class='bx bxs-cog' ></i>
+					<span class="text">Settings</span>
+				</a>
+			</li>
+			<li>
+				<a href="./index" class="logout">
+					<i class='bx bxs-log-out-circle' ></i>
+					<span class="text">Logout</span>
+				</a>
+			</li>
+		</ul>
+	</section>
+	<!-- SIDEBAR -->
+
+	<!-- CONTENT -->
+	<section id="content">
+		<!-- NAVBAR -->
+		<nav>
+			<i class='bx bx-menu' ></i>
+			<a href="#" class="nav-link">Categories</a>
+			<form action="#">
+				<div class="form-input">
+					<input type="search" placeholder="Search...">
+					<button type="submit" class="search-btn"><i class='bx bx-search' ></i></button>
+				</div>
+			</form>
+			<input type="checkbox" id="switch-mode" hidden>
+			<!-- <label for="switch-mode" class="switch-mode"></label> -->
+			<a href="#" class="notification">
+				<i class='bx bxs-bell' ></i>
+				<span class="num">8</span>
+			</a>
+			<a href="#" class="profile">
+				<img src="static/img/avatar icon.jpg">
+			</a>
+		</nav>
+		<!-- NAVBAR -->
+
+		<!-- MAIN -->
+		<main>
+			<div class="head-title">
+				<div class="left">
+					<h1>Dashboard</h1>
+					<ul class="breadcrumb">
+						<li>
+							<a href="./dashboard">Dashboard</a>
+						</li>
+						<li><i class='bx bx-chevron-right' ></i></li>
+						<li>
+							<a class="active" href="./dashboard">Home</a>
+						</li>
+						<li><i class='bx bx-chevron-right' ></i></li>
+						<li>
+							<a class="active" href="./bangalore">Bangalore</a>
+						</li>
+					</ul>
+				</div>
+				<a href="https://docs.google.com/spreadsheets/d/1yWiTjk9HSS4g0U3TFfM_WHtE6GqOsRLzLLS1IBAia2M/edit#gid=0" class="btn-download">
+					<i class='bx bxs-cloud-download' ></i>
+					<span class="text">Upload Data File</span>
+				</a>
+				<a href="#" class="btn-download">
+					<i class='bx bxs-cloud-download' ></i>
+					<span class="text">Download PDF</span>
+				</a>
+			</div>
+
+			<ul class="box-info">
+				<a href="./dashboard">
+					<li>
+				
+						<!-- <i class='bx bxs-calendar-check' ></i> -->
+						<span class="text">
+							<!-- <p>1020</p> -->
+							<h3 id="total_product_sales">Total Product Sales</h3>
+						</span>
+					</li>
+				</a>
+				
+				<a href="./mumbai">
+					<li>
+						<!-- <i class='bx bxs-group' ></i> -->
+						<span class="text">
+							<h3>Mumbai</h3>
+							
+						</span>
+					</li>
+					
+				</a>
+				
+				<a href="./bangalore">
+					<li>
+					
+						<!-- <i class='bx bxs-dollar-circle' ></i> -->
+						<span class="text">
+							
+							<h3>Bangalore</h3>
+							
+						</span>
+					</li>
+					
+				</a>
+				
+				<a href="./delhi">
+					<li>
+						<!-- <i class='bx bxs-dollar-circle' ></i> -->
+						<span class="text">
+							<h3>Delhi</h3>
+							
+						</span>
+					</li>
+				</a>
+				
+			</ul>
+			<!-- <ul class="box-info">
+				<li>
+					<i class='bx bxs-calendar-check' ></i>
+					<span class="text">
+						<h3>1020</h3>
+						<p>New Order</p>
+					</span>
+				</li>
+				<li>
+					<i class='bx bxs-group' ></i>
+					<span class="text">
+						<h3>2834</h3>
+						<p>Visitors</p>
+					</span>
+				</li>
+				<li>
+					<i class='bx bxs-dollar-circle' ></i>
+					<span class="text">
+						<h3>$2543</h3>
+						<p>Total Sales</p>
+					</span>
+				</li>
+			</ul> -->
+
+
+			<div class="table-data">
+				<div class="order">
+					<div class="head">
+						<h3>Graph</h3>
+						
+					</div>
+					<div class="inside_graph" id="default_img">
+						<div class="img">
+							<img id="graph" src="static/img/image_default.jpg">
+						</div>
+					</div>
+					<div class="inside_graph" id="mum_q1">
+						<div class="img">
+							<img id="graph" src={{ B1 }}>
+						</div>
+	
+						<div class="imp_points">
+							<p class="imppoints">Best Month for sales in Bangalore was: {{MonthB}}</p>
+						</div>
+					</div>
+					<div class="inside_graph" id="mum_q2">
+						<div class="img">
+							<img id="graph" src={{ B2 }}>
+						</div>
+	
+						<div class="imp_points">
+							<p class="imppoints">Best Product Line in Bangalore is: {{ ProductLineB }}</p>
+						</div>
+					</div>
+					<div class="inside_graph" id="mum_q3">
+						<div class="img">
+							<img id="graph" src={{ B3 }}>
+						</div>
+	
+						<div class="imp_points">
+							<p class="imppoints">Best Product Line in Bangalore is: {{ ByHourB }}</p>
+						</div>
+					</div>
+					<!-- <div class="inside_graph" id="mum_q4">
+						<div class="img">
+							<img id="graph" src="../../../images/chess1.png" alt="">
+						</div>
+	
+						<div class="imp_points">
+							<p class="imppoints">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis, laborum!</p>
+						</div>
+					</div>
+					<div class="inside_graph" id="mum_q5">
+						<div class="img">
+							<img id="graph" src="../../../images/chess1.png" alt="">
+						</div>
+	
+						<div class="imp_points">
+							<p class="imppoints">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis, laborum!</p>
+						</div>
+					</div> -->
+				    
+				</div>
+
+
+				<div class="todo">
+					<div class="head">
+						<h3>Queries</h3>
+						<i class='bx bx-plus' ></i>
+						<i class='bx bx-filter' ></i>
+					</div>
+					<ul class="todo-list">
+						<a  href="#">
+							<li class="not-completed">
+								<p id="query1">Monthly Sales</p>
+								<i class='bx bx-dots-vertical-rounded' ></i>
+							</li>
+						</a>
+						<a href="#">
+							<li class="completed">
+								<p id="query2">Sector-wise Sales</p>
+								<i class='bx bx-dots-vertical-rounded' ></i>
+							</li>
+						</a>
+						<a href="#">
+							<li class="not-completed">
+								<p id="query3">Hourly Sales</p>
+								<i class='bx bx-dots-vertical-rounded' ></i>
+							</li>
+						</a>
+						<a href="#">
+							<li class="completed">
+								<p id="query4">Query 4</p>
+								<i class='bx bx-dots-vertical-rounded' ></i>
+							</li>
+						</a>
+						<a href="#">
+							<li class="not-completed">
+								<p id="query5">Query 5</p>
+								<i class='bx bx-dots-vertical-rounded' ></i>
+							</li>
+						</a>
+						
+					</ul>
+				</div>
+			</div>
+		</main>
+		<!-- MAIN -->
+	</section>
+	<!-- CONTENT -->
+	
+
+	<script>
+
+		const allSideMenu = document.querySelectorAll('#sidebar .side-menu.top li a');
+		
+		allSideMenu.forEach(item=> {
+			const li = item.parentElement;
+		
+			item.addEventListener('click', function () {
+				allSideMenu.forEach(i=> {
+					i.parentElement.classList.remove('active');
+				})
+				li.classList.add('active');
+			})
+		});
+		
+		
+		
+		
+		// TOGGLE SIDEBAR
+		const menuBar = document.querySelector('#content nav .bx.bx-menu');
+		const sidebar = document.getElementById('sidebar');
+		
+		menuBar.addEventListener('click', function () {
+			sidebar.classList.toggle('hide');
+		})
+		
+		
+		
+		
+		
+		const searchButton = document.querySelector('#content nav form .form-input button');
+		const searchButtonIcon = document.querySelector('#content nav form .form-input button .bx');
+		const searchForm = document.querySelector('#content nav form');
+		
+		searchButton.addEventListener('click', function (e) {
+			if(window.innerWidth < 576) {
+				e.preventDefault();
+				searchForm.classList.toggle('show');
+				if(searchForm.classList.contains('show')) {
+					searchButtonIcon.classList.replace('bx-search', 'bx-x');
+				} else {
+					searchButtonIcon.classList.replace('bx-x', 'bx-search');
+				}
+			}
+		})
+		
+		
+		
+		
+		if(window.innerWidth < 768) {
+			sidebar.classList.add('hide');
+		} else if(window.innerWidth > 576) {
+			searchButtonIcon.classList.replace('bx-x', 'bx-search');
+			searchForm.classList.remove('show');
+		}
+		
+		
+		window.addEventListener('resize', function () {
+			if(this.innerWidth > 576) {
+				searchButtonIcon.classList.replace('bx-x', 'bx-search');
+				searchForm.classList.remove('show');
+			}
+		})
+		
+		
+		
+		const switchMode = document.getElementById('switch-mode');
+		
+		switchMode.addEventListener('change', function () {
+			if(this.checked) {
+				document.body.classList.add('dark');
+			} else {
+				document.body.classList.remove('dark');
+			}
+		})
+		
+
+	$(document).ready(function() {
+		$('#default_img').show();
+		$('#mum_q1').hide();
+		$('#mum_q2').hide();
+		$('#mum_q3').hide();
+		$('#mum_q4').hide();
+		$('#mum_q5').hide();
+		
+		});
+		$('#query1').on('click', function() {
+			$('#default_img').hide();
+			$('#mum_q1').show(500);
+			$('#mum_q2').hide();
+			$('#mum_q3').hide();
+			$('#mum_q4').hide();
+			$('#mum_q5').hide();
+
+		});
+		$('#query2').on('click', function() {
+			$('#default_img').hide();
+			$('#mum_q1').hide();
+			$('#mum_q2').show(500);
+			$('#mum_q3').hide();
+			$('#mum_q4').hide();
+			$('#mum_q5').hide();
+
+		});
+		$('#query3').on('click', function() {
+			$('#default_img').hide();
+			$('#mum_q1').hide();
+			$('#mum_q2').hide();
+			$('#mum_q3').show(500);
+			$('#mum_q4').hide();
+			$('#mum_q5').hide();
+
+		});
+		$('#query4').on('click', function() {
+			$('#default_img').hide()
+			$('#mum_q1').hide();
+			$('#mum_q2').hide();
+			$('#mum_q3').hide();
+			$('#mum_q4').show(500);
+			$('#mum_q5').hide();
+
+		});
+		$('#query5').on('click', function() {
+			$('#default_img').hide();
+			$('#mum_q1').hide();
+			$('#mum_q2').hide();
+			$('#mum_q3').hide();
+			$('#mum_q4').hide();
+			$('#mum_q5').show(500);
+		});
+		$('#query6').on('click', function() {
+			$('#default_img').hide();
+			$('#mum_q1').hide();
+			$('#mum_q2').hide();
+			$('#mum_q3').hide();
+			$('#mum_q4').hide();
+			$('#mum_q5').hide();
+			$('#mum_q6').show(500);
+		});
+	
+</script>
+</body>
+</html>

@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Anatomy</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="https://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" type="image/png" href="static/img/favicon.png">
+</head>
+<body>
+
+    <header class  ="header">
+      <div class="container">
+          <input type="checkbox" name="" id="check">
+          
+          <div class="logo-container">
+            <a href="./"><h3 class="logo">Business Anatomy<span></span></h3></a>  
+          </div>
+
+          <div class="nav-btn">
+              <div class="nav-links">
+                  <ul>
+                      <li class="nav-link" style="--i: .6s">
+                          <a href="./index">Home</a>
+                      </li>
+                      <li class="nav-link" style="--i: .85s">
+                          <a href="./services">Services</a>
+                      </li>
+                      <!-- <li class="nav-link" style="--i: 1.35s">
+                        <a href="./aboutus">Team</a>
+                    </li> -->
+                      <li class="nav-link" style="--i: 1.1s">
+                          <a href="./contactForm">Contact</i></a>
+                      </li> 
+                      <!-- <li class="nav-link" style="--i: 1.35s">
+                          <a href="./dashboard">Overview</a>
+                      </li> -->
+                      <li class="nav-links1" style="--i: 1.8s">
+                        <a href="./Premium">PRO</a>
+                      </li> 
+                  </ul>
+              </div>
+              
+              <div class="log-sign" style="--i: 1.8s">
+                  <a href="./login" class="btn transparent">Login</a>               
+              </div>
+
+          </div>
+
+          <div class="hamburger-menu-container">
+              <div class="hamburger-menu">
+                  <div></div>
+              </div>
+          </div>
+      </div>
+  </header>
+
+  <!--=============================================== navb html ends -====================================================->
+
+<! <body class = "body1">= -->
+
+<!-- <div class="Slider">
+
+  <div class="img-slider">
+    <div class="slide active">
+      <img src="static\img\Ratan-Tata-image.jpg" alt="#">
+      <div class="info">
+        <h2>Ratan Tata</h2>
+        <p>" If you want to walk fast, walk Alone. If you want to walk far, walk together. " </p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="static\img\slider 2.jpg" alt="#">
+      <div class="info">
+        <h2>Dhirubhai Ambani</h2>
+        <p>" Meeting the deadlines is not good enough, beating the deadline is my expectation. "</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="static/img/Slider 3.jpg" alt="#">
+      <div class="info">
+        <h2>Falguni Nayar</h2>
+        <p>" Think Big but Start Small. "</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="static\img\OYO--1200x600.jpg" alt="#">
+      <div class="info">
+        <h2>Ritesh Agarwal</h2>
+        <p>I was a small-town boy with big dreams.</p>
+      </div>
+    </div>
+    <div class="slide">
+      <img src="static\img\Slider 1.jpg" alt="#">
+      <div class="info">
+        <h2>Byjus Raveendran</h2>
+        <p>Students just memorize, replicate and then forget when the exam is over.</p>
+      </div>
+    </div>
+    <div class="navigation">
+      <div class="btn active"></div>
+      <div class="btn"></div>
+      <div class="btn"></div>
+      <div class="btn"></div>
+      <div class="btn"></div>
+    </div>
+  </div>
+</div>
+
+  <script type="text/javascript">
+  var slides = document.querySelectorAll('.slide');
+  var btns = document.querySelectorAll('.btn');
+  let currentSlide = 1;
+
+  // Javascript for image slider manual navigation
+  var manualNav = function(manual){
+    slides.forEach((slide) => {
+      slide.classList.remove('active');
+
+      btns.forEach((btn) => {
+        btn.classList.remove('active');
+      });
+    });
+
+    slides[manual].classList.add('active');
+    btns[manual].classList.add('active');
+  }
+
+  btns.forEach((btn, i) => {
+    btn.addEventListener("click", () => {
+      manualNav(i);
+      currentSlide = i;
+    });
+  });
+
+  // Javascript for image slider autoplay navigation
+  var repeat = function(activeClass){
+    let active = document.getElementsByClassName('active');
+    let i = 1;
+
+    var repeater = () => {
+      setTimeout(function(){
+        [...active].forEach((activeSlide) => {
+          activeSlide.classList.remove('active');
+        });
+
+      slides[i].classList.add('active');
+      btns[i].classList.add('active');
+      i++;
+
+      if(slides.length == i){
+        i = 0;
+      }
+      if(i >= slides.length){
+        return;
+      }
+      repeater();
+    }, 10000);
+    }
+    repeater();
+  }
+  repeat();
+  </script> -->
+
+  <swiper-container style="--swiper-navigation-color: #fff; --swiper-pagination-color: #fff" class="mySwiper"
+    pagination="true" pagination-clickable="true" navigation="true">
+    <swiper-slide lazy="true">
+      <!-- <img loading="lazy" src="https://swiperjs.com/demos/images/nature-1.jpg" /> -->
+      <img src="static\img\1.jpeg" alt="#">
+    </swiper-slide>
+    <swiper-slide lazy="true">
+      <!-- <img loading="lazy" src="https://swiperjs.com/demos/images/nature-2.jpg" /> -->
+      <img src="static\img\2.jpeg" alt="#">
+    </swiper-slide>
+    <swiper-slide lazy="true">
+      <!-- <img loading="lazy" src="https://swiperjs.com/demos/images/nature-3.jpg" /> -->
+      <img src="static\img\3.jpeg" alt="#">
+    </swiper-slide>
+    <!-- <swiper-slide lazy="true">
+      <img loading="lazy" src="https://swiperjs.com/demos/images/nature-4.jpg" />
+    </swiper-slide>
+    <swiper-slide lazy="true">
+      <img loading="lazy" src="https://swiperjs.com/demos/images/nature-5.jpg" />
+    </swiper-slide>
+    <swiper-slide lazy="true">
+      <img loading="lazy" src="https://swiperjs.com/demos/images/nature-6.jpg" />
+    </swiper-slide>
+    <swiper-slide lazy="true">
+      <img loading="lazy" src="https://swiperjs.com/demos/images/nature-7.jpg" />
+    </swiper-slide>
+    <swiper-slide lazy="true">
+      <img loading="lazy" src="https://swiperjs.com/demos/images/nature-8.jpg" />
+    </swiper-slide>
+    <swiper-slide lazy="true">
+      <img loading="lazy" src="https://swiperjs.com/demos/images/nature-9.jpg" />
+    </swiper-slide> -->
+  </swiper-container>
+
+  <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-element-bundle.min.js"></script>
+
+<!-- --------------------------------slider html ends ------------------------------------------- -->
+
+<div class="aboutUS">
+<div class="section">
+  <div class="container">
+    <div class="content-section">
+      <div class="title">
+        <h3>With our services, You Can :- </h3>
+      </div>
+      <div class="content">
+        <!-- <h3></h3> -->
+        <p>- Grow your Business</p>
+        <p>- Know the story of your data</p>
+        <p>- Get your sales trends</p>
+        <p>- Predict the rising demand of your products</p>
+        <p></p>
+        <p>We're a team of five with a mission of making this world a better place using digital tools and innovations..</p>
+        <div class="button">
+          <a href="./services">Read More</a>
+        </div>
+      </div>
+      <div class="social">
+        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href="#"><i class="fa fa-github"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+      </div>
+    </div>
+    <div class="image-section">
+      <img src="static/img/aboutUs.jpg">
+    </div>
+  </div>
+</div>
+
+</div>
+
+<!-- ---------------------------------------------about html ends ------------------------------------------------>
+
+
+  <!--------------------------------------------------------------Premium ends here---------------------------------------------------------->
+
+<footer class = footer>
+  <div class="footer-content">
+      <h3>The Trinity</h3>
+      <p> <b>Email : oppanchayat5@gmail.com </b> </p>
+      <ul class="socials">
+          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+          <li><a href="https://github.com/panchayat5"><i class="fa fa-github"></i></a></li>
+          <!-- <li><a href="#"><i class="fa fa-envelope"></i></a></li> -->
+          <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+          <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
+      </ul>
+  </div>
+  <div class="footer-bottom">
+      <p>All right reserved by ©Trinity<span>designed with &#x2764</span></p>
+  </div>
+</footer>
+</body>
+</html>
